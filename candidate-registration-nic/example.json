@@ -1,0 +1,52 @@
+{
+	"candidateId": 0,
+	"username": "Souvik Sarkar",
+	"name": "Souvik Sarkar",
+	"dob": 15795745860000,
+	"pwd": "12345",
+	"education": [
+		{
+			"id": 0,
+			"candidateId": 0,
+			"dop": 15795745860000,
+			"institution": "Tets",
+			"grade":"A",
+			"percentle": 80,
+			"degree": "MCA"
+		}
+	],
+	"employment": [
+		{
+			"id": 0,
+			"candidateId": 0,
+			"employers_name": "ABC",
+			"doj": 15795745860000,
+			"lwd": 15795745860000,
+			"technology": "Tets",
+			"designation": "A"
+		}
+	],
+	"personal": [
+		{
+			"id": 0,
+			"candidateId": 0,
+			"address": "ABC",
+			"contacts": "123456",
+			"fatherName": "Tets"
+		}
+	],
+	"photograph": [],
+	"project": [
+		{
+			"id": 0,
+			"candidateId": 0,
+			"description": "ABC",
+			"doj": 15795745860000,
+			"lwd": 15795745860000,
+			"skills": "123456",
+			"role": "Tets",
+			"responsibility": "123456",
+			"teamsize": 20
+		}
+	]
+}
